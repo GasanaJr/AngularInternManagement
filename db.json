@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Junior",
+      "lastName": "Gasana",
+      "email": "gasanajr08@gmail.com",
+      "mobile": "+250738930843",
+      "salary": "500000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
